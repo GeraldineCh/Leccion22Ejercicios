@@ -1,3 +1,15 @@
 * {
-	font-family: Verdana;
+	font-family: 'Raleway', sans-serif;
+	height: 50px;
+	padding: 5px;
+	margin: 0px;
+	font-weight: bold;
+}
+
+p {
+	background-color: yellow;
+}
+
+div {
+	background-color: #eb234e;
 }
