@@ -2,15 +2,16 @@
 	font-family: 'Raleway', sans-serif;
 	height: 50px;
 	padding: 5px;
-	margin: 20 0px;
-	width: 150px;
 	font-weight: bold;
+	margin-right: 5px;
 }
 
 p {
 	background-color: yellow;
+	display: inline;
 }
 
 div {
+	display: inline;
 	background-color: #eb234e;
 }
