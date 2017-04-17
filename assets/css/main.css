@@ -1,17 +1,20 @@
 * {
 	font-family: 'Raleway', sans-serif;
-	height: 50px;
-	padding: 5px;
 	font-weight: bold;
-	margin-right: 5px;
 }
 
 p {
 	background-color: yellow;
-	display: inline;
+	height: 50px;
+	padding: 5px;
+	width: 160px;
+	display: inline-block;
 }
 
 div {
-	display: inline;
+	display: inline-block;
 	background-color: #eb234e;
+	height: 50px;
+	padding: 5px;
+	width: 160px;
 }
